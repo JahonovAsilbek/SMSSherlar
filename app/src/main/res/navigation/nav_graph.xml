@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/home2">
+
+    <fragment
+        android:id="@+id/home2"
+        android:name="uz.revolution.smssherlar.Home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_home2_to_sevgi"
+            app:destination="@id/sevgi" />
+        <action
+            android:id="@+id/action_home2_to_soginch"
+            app:destination="@id/soginch" />
+        <action
+            android:id="@+id/action_home2_to_tabrik"
+            app:destination="@id/tabrik" />
+        <action
+            android:id="@+id/action_home2_to_ota"
+            app:destination="@id/ota" />
+        <action
+            android:id="@+id/action_home2_to_dostlik"
+            app:destination="@id/dostlik" />
+        <action
+            android:id="@+id/action_home2_to_hazil"
+            app:destination="@id/hazil" />
+        <action
+            android:id="@+id/action_home2_to_yangilar"
+            app:destination="@id/yangilar" />
+        <action
+            android:id="@+id/action_home2_to_saqlanganlar"
+            app:destination="@id/saqlanganlar" />
+    </fragment>
+    <fragment
+        android:id="@+id/sevgi"
+        android:name="uz.revolution.smssherlar.Sevgi"
+        android:label="fragment_sevgi"
+        tools:layout="@layout/fragment_sevgi" />
+    <fragment
+        android:id="@+id/soginch"
+        android:name="uz.revolution.smssherlar.Soginch"
+        android:label="fragment_soginch"
+        tools:layout="@layout/fragment_soginch" />
+    <fragment
+        android:id="@+id/tabrik"
+        android:name="uz.revolution.smssherlar.Tabrik"
+        android:label="fragment_tabrik"
+        tools:layout="@layout/fragment_tabrik" />
+    <fragment
+        android:id="@+id/ota"
+        android:name="uz.revolution.smssherlar.Ota"
+        android:label="fragment_ota"
+        tools:layout="@layout/fragment_ota" />
+    <fragment
+        android:id="@+id/dostlik"
+        android:name="uz.revolution.smssherlar.Dostlik"
+        android:label="fragment_dostlik"
+        tools:layout="@layout/fragment_dostlik" />
+    <fragment
+        android:id="@+id/hazil"
+        android:name="uz.revolution.smssherlar.Hazil"
+        android:label="fragment_hazil"
+        tools:layout="@layout/fragment_hazil" />
+    <fragment
+        android:id="@+id/yangilar"
+        android:name="uz.revolution.smssherlar.Yangilar"
+        android:label="fragment_yangilar"
+        tools:layout="@layout/fragment_yangilar" />
+    <fragment
+        android:id="@+id/saqlanganlar"
+        android:name="uz.revolution.smssherlar.Saqlanganlar"
+        android:label="fragment_saqlanganlar"
+        tools:layout="@layout/fragment_saqlanganlar" />
+</navigation>

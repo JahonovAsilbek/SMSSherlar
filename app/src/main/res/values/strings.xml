@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SMS She\'rlar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="matn1">Uyqusiz tunlarim qalbim sizniki,
+    \nKo\'zimning yoshi ko\'ngim sizniki.
+    \nShirin orzularim dardim sizniki,
+    \nSizni qattiq sevgan yurak sizniki!
+    \n\nUyqusiz tunlarim qalbim sizniki,
+    \nKo\'zimning yoshi ko\'ngim sizniki.
+    \nShirin orzularim dardim sizniki,
+    \nSizni qattiq sevgan yurak sizniki!
+    \n\nUyqusiz tunlarim qalbim sizniki,
+    \nKo\'zimning yoshi ko\'ngim sizniki.
+    \nShirin orzularim dardim sizniki,
+    \nSizni qattiq sevgan yurak sizniki!</string>
+
+
+    <string name="matn">Uyqusiz tunlarim qalbim sizniki,
+    \nKo\'zimning yoshi ko\'ngim sizniki.
+    \nShirin orzularim dardim sizniki,
+    \nSizni qattiq sevgan yurak sizniki!
+    \n\nUyqusiz tunlarim qalbim sizniki,
+    \nKo\'zimning yoshi ko\'ngim sizniki.
+    \nShirin orzularim dardim sizniki,
+    \nSizni qattiq sevgan yurak sizniki!
+    \n\nUyqusiz tunlarim qalbim sizniki,
+    \nKo\'zimning yoshi ko\'ngim sizniki.
+    \nShirin orzularim dardim sizniki,
+    \nSizni qattiq sevgan yurak sizniki!</string>
+
+    <string name="romol">
+
+Oxshamaysan kalondimog birovlarga,
+\nTavoze ila turishingni sevaman, bas.
+\nRomolingga osilgan gov sinovlarga
+\nSabr sorab yurishingni sevaman, bas.
+\n
+\nO Mastura, charchamagin zikr aytib,
+\nSendaylar bir kelar yoki kelmas qaytib.
+\nRomollilar noyob bolib ketgan payti
+\nRomol orab yurishingni sevaman, bas.
+\n
+\nO Muslima, seni qanday ona tuqqan?
+\nBilmam, senga bunday iymon kimdan yuqqan?
+\nHijolatdan nazarimni yerga bukkan,
+\nYerga qarab yurishingni sevaman, bas.
+\n
+\nIshonsang gar, termulmadim yuzingga hech,
+\nKozim uzoq boqqan emas kozingga hech.
+\nMeni oshiq demasinlar ozingga hech,
+\nHaqni yaxshi korishingni sevaman, bas.
+    </string>
+</resources>
